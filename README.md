@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-      My guide session
-    </title>
+    
   </head>
   <body>
     <h1>
